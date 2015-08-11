@@ -1,0 +1,20 @@
+This challenge is a stand alone challenge, and should be completed as quickly as possible.
+
+The fastest teams will receive extra points.
+
+There are no SLA checks for this service. Once you have exploited it and submitted the flag, you are done.
+
+The binary is running on a Nexus 9 running Android 5.1.1. The only changes are that it was rooted.
+
+IP: 10.5.18.2
+PORT: 3535
+
+The flag is in the current working directory.  It is called "flag". 
+
+Submit to:
+
+https://10.3.1.7/livectf/<THEFLAG>
+
+(Replace <THEFLAG> with the flag from the flag file. If you get json back, it worked)
+
+Good luck.
